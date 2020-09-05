@@ -17,12 +17,12 @@ import heart from "./img/heart.svg";
 									<img src={props.author.photo} alt={props.author.name} />
 								</div>
 								<div className={'author-title'}>
-									<p>{props.author.name} <img className={"svg"} src={warranty} alt="" /> <span>{props.author.nickname}<span className={"dot"}>.</span>{props.date}</span></p>
+									<p>{props.author.name} <img className={"svg"} src={warranty} alt="warranty" /> <span>{props.author.nickname}<span className={"dot"}>.</span>{props.date}</span></p>
 									<p>{props.content}</p>
 								</div>
 							</div>
 							<div>
-								<img src={downArrow} alt={"down arrow"}/>
+								<img className={"downArrow"} src={downArrow} alt={"down arrow"}/>
 							</div>
 						</div>
 						<div className={"main"}>
@@ -32,10 +32,10 @@ import heart from "./img/heart.svg";
 						</div>
 						<div className={"footer"}>
 							<div className={'icons'}>
-								<p><img src={comment} alt="" /><span>482</span></p>
-								<p><img src={retweet} alt=""/><span>146</span></p>
-								<p><img src={heart} alt="" /><span>887</span></p>
-								<p><img src={share} alt="" /></p>
+								<p><img src={comment} alt="comment" /><span>482</span></p>
+								<p><img src={retweet} alt="retweet"/><span>146</span></p>
+								<p><img src={heart} alt="heart" /><span>887</span></p>
+								<p><img src={share} alt="share" /></p>
 							</div>
 						</div>
 					 </div>

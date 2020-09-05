@@ -88,6 +88,7 @@ span {
 	vertical-align: text-bottom;
 	margin-right: 10px;
 	margin-left: 3px;
+	cursor: pointer;
 	}
 .dot {
 	vertical-align: text-bottom;
@@ -100,4 +101,8 @@ span {
 	}
 .icons img {
 	margin-right: 20px;
+	cursor: pointer;
+	}
+.downArrow {
+	cursor: pointer;
 	}
