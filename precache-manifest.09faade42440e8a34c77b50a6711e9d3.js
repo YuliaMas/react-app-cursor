@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64701280d111c418c7d87a6f566240e4",
+    "revision": "317b7abd15d80f176530e41fe451d61b",
     "url": "/react-app-cursor/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-cursor/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "57c16f5b1b2a351d2f7c",
-    "url": "/react-app-cursor/static/css/main.4aed3e9f.chunk.css"
+    "revision": "b5c9009de1080f7c3a3d",
+    "url": "/react-app-cursor/static/css/main.2cdaa723.chunk.css"
   },
   {
     "revision": "6ff772d2f5d05320eedb",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-cursor/static/js/2.cd262901.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57c16f5b1b2a351d2f7c",
-    "url": "/react-app-cursor/static/js/main.acfb9863.chunk.js"
+    "revision": "b5c9009de1080f7c3a3d",
+    "url": "/react-app-cursor/static/js/main.fe68721b.chunk.js"
   },
   {
     "revision": "58884499584256d169a0",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-cursor/static/media/down-arrow.d4521446.svg"
   },
   {
-    "revision": "b8519b2fbf49386742df7d1623d4e5e2",
-    "url": "/react-app-cursor/static/media/heart.b8519b2f.svg"
+    "revision": "0c7b5ebd4af2efc0f4abc73ab25a8b21",
+    "url": "/react-app-cursor/static/media/heart.0c7b5ebd.svg"
   },
   {
     "revision": "e85ee3e0e5e550d695cac2c1de9055b1",
